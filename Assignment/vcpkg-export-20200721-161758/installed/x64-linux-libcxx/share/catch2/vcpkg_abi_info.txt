@@ -1,0 +1,7 @@
+CONTROL 7bec0e11b192675e20e806e4f2e0bb4f8bb5e61f
+cmake 3.17.2
+features core
+portfile.cmake e98d824340a108c1da0b12f4f34c3a12fd305fc6
+post_build_checks 2
+triplet a120b03c10dd118377c6c857f851a1467776a3be-fe0912a7bba4a5c72d683204c91dba1b6f13df03
+vcpkg_fixup_cmake_targets 6f2c53f089f9f452e54b978e0c1d190a7091ce43

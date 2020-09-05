@@ -1,0 +1,12 @@
+cmake 3.17.2
+features core
+fix-MSVCbuildfail.patch ed0f6f269f98e3188ba15932dc30a06a2a75dc6d
+fix-arm-build.patch 53c889f42aee3b985f7687fb7cf2f39d4cec7358
+fix-lnk2019-error.patch 42eb408cad0cc0619d24dd2de181451279776e49
+fix-use-cxx17-stdlib-types.patch c80b59621b8ab1e17c77ea58298bbf8f8e04d2b2
+fix-uwp-build.patch ce4f60a5ae8c7d469b09f334577759ae14c31c92
+portfile.cmake 8c0fd0492e85f3004e067314ff8241f314e32f4a
+post_build_checks 2
+triplet a120b03c10dd118377c6c857f851a1467776a3be-fe0912a7bba4a5c72d683204c91dba1b6f13df03
+vcpkg.json 01e299e298cc749a8115b1e657cc4291f096c05e
+vcpkg_fixup_cmake_targets 6f2c53f089f9f452e54b978e0c1d190a7091ce43
